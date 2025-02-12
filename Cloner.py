@@ -18,7 +18,7 @@ from colorama import Fore, init, Style
 import platform
 from serverclone import Clone
 
-intents = discord.Intents.all()  # Enables all intents (use carefully)
+intents = discord.Intents.all()
 client = discord.Client(intents=intents)
 os = platform.system()
 if os == "Windows":
