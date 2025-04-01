@@ -12,4 +12,4 @@ This is a very simple and easy-to-use Discord Server Cloner tool, it copies ever
 
 Just enter your account token and guild id, and watch the tool do all the work for you!!
 
-Support: https://discord.gg/driizzyy-boosts
+Support: https://discord.gg/driizzyyboosts
